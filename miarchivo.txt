@@ -11,10 +11,12 @@ Añade tu nombre a la lista siguiente:
 - Isabel Mellinas Coperias. "It's very difficult todo esto"
 - Carmen Pavón Moral. "No he dormido nada. No me pregunten demasiado, si hacen el favor."
 - Elena Gomez. Me gustan las mandarinas
+- Blanca Martínez Maqueda. Yo prefiero las naranjas
 - Marina Pachón Mena. "se chove que chova"
 - Soledad Fernandez Bermejo. "No le pidas peras al olmo, mejor pidele uvas."
 - Julia Torres Anaya. "Fatal, gracias"
 - Javi Cabezas. Amarillo Amarillo Amarillo los plátanos, tiritiriti.
+
 
 ## Curso 2023-2024: 
 - Armando Fernández Martín. "En la programación, como en la vida, la primera vez nunca funciona."
