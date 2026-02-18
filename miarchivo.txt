@@ -2,6 +2,8 @@ Este es un documento de ejemplo de control de versiones.
 Autor: Antonio J. Pérez-Luque
 
 Añade tu nombre a la lista siguiente: 
+## Curso 2025-2026:
+- Mario. "Quemad los Barcos", la icónica frase atribuida a Hernán Cortés, encarna el verdadero significado de la determinación al forzar una decisión de no retorno. Al destruir sus propias naves en las costas de México, Cortés eliminó cualquier posibilidad de retirada para sus hombres, dejando claro que el único camino hacia el éxito era avanzar. Este acto simbólico de eliminar el "plan B" ilustra que el compromiso total con un objetivo es la manera más poderosa para superar el miedo y lograr lo imposible. El Dios de la lluvia llora sobre Méjico
 
 ## Curso 2024-2025:
 - Cristina Martín Romera. "If you fail to plan, you plan to fail."
@@ -37,4 +39,3 @@ Añade tu nombre a la lista siguiente:
 - Andrea González del Río " "Vivo dentro dun monte de area;tinguido de brea que non limpa o mar; coa esperanza de tomar alento; para ver o momento de nos libertar."
 - Natalia Celaya Rojas. "El sueño de la razón produce monstruos".
 - María Luisa Campón Amado "La ciencia se compone de errores, que a su vez, son los pasos hacia la verdad"
-Mario - "Quemad los Barcos", la icónica frase atribuida a Hernán Cortés, encarna el verdadero significado de la determinación al forzar una decisión de no retorno. Al destruir sus propias naves en las costas de México, Cortés eliminó cualquier posibilidad de retirada para sus hombres, dejando claro que el único camino hacia el éxito era avanzar. Este acto simbólico de eliminar el "plan B" ilustra que el compromiso total con un objetivo es la manera más poderosa para superar el miedo y lograr lo imposible.El Dios de la lluvia llora sobre Méjico
